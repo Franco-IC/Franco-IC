@@ -13,7 +13,7 @@ Hey 👋, my name is Franco Cuellar, I'm a software developer from Buenos Aires,
 
 #### 🌱 Things I am currently working on: 
 - Learning Typescript
-- Learning Docker
+- Learning TDD
 - Improve on React
 - Finding new project ideas to apply my fresh skills
 
