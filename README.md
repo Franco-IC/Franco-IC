@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:francoit1999@gmail.com)
 
 ### A little about me:
-Hey 👋, my name is Franco Cuellar, I'm a software developer from Buenos Aires, Argentina and I love cats and dogs a little more than I love coffee and software development (though they're still really close), the things that I enjoy the most on my daily are squeezing my brain over a bug I have on some new project, learning new skills, drinking coffee and playing videogames.
+Hey 👋, my name is Franco, I'm a Junior Full Stack (MERN) Web Developer used to work with JS, React, Node, Express, MongoDB, Mongoose and various other technologies that I constantly add to my daily tools by learning on my own. Passionate about creating innovative and efficient solutions to solve complex business problems. Ability to work in a team, with effective communication skills and the ability to translate business requirements into technical solutions. Always interested in learning new technologies and improving my skills to deliver the best service and applications.
 
 
 #### 🌱 Things I am currently working on: 
