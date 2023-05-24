@@ -34,18 +34,3 @@ Others: mongoose, SweetAlert2, bcrypt, DataTables
 
 <br>
 
-<h2 align="center"> My latest projects </h2>
-<br>
-
-<div width="100%" align="center">
-    <a align="center" href="https://github.com/Franco-IC/react-kanban-board" title="React Kanban Board"><img
-            align="left" height="115"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=franco-ic&repo=react-kanban-board&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
-
-<div width="100%" align="center">
-    <a align="center" href="https://github.com/Franco-IC/kanban-board-api" title="Kanban Board API"><img
-            align="left" height="115"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=franco-ic&repo=kanban-board-api&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
